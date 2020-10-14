@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{66:function(o){o.exports=JSON.parse('{"allTagsPath":"/myze-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/myze-docs/blog/tags/hola"}')}}]);

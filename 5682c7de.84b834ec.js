@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{67:function(o){o.exports=JSON.parse('{"allTagsPath":"/myze-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/myze-docs/blog/tags/facebook"}')}}]);
