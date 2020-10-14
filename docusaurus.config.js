@@ -2,7 +2,7 @@ module.exports = {
   title: 'Myze Shop Documentation',
   tagline: 'This is documentation site for Myze project',
   url: 'https://myze.shop',
-  baseUrl: '/',
+  baseUrl: '/myze-docs/',
   projectName: 'myze-docs', // Usually your repo name.
   organizationName: 'szczepanbarszczowski', // Usually your GitHub org/user name.
   onBrokenLinks: 'throw',

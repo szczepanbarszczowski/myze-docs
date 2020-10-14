@@ -13,7 +13,7 @@ const features = [
     description: (
       <>
         This documentation was designed from the ground up to be
-        used to get your website up and running quickly.
+        used to get your application up and running quickly.
       </>
     ),
   },
